@@ -1,4 +1,4 @@
-package com.javaex.ex04.스트림.배열.스플릿.짬뽕기.콤보;
+package com.javaex.ex04;
 
 public class Person {
 	// 필드

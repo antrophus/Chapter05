@@ -1,4 +1,4 @@
-package com.javaex.ex04.스트림.배열.스플릿.짬뽕기.콤보;
+package com.javaex.ex04;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
